@@ -2,7 +2,7 @@
 const discord = require("discord.js");
 //require('discord-buttons')(nico);
 const nico = new discord.Client();
-const fs = require("fs");
+const fs = require("fs"); 
 const db = require("quick.db");
 const express = require("express");
 
